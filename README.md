@@ -164,6 +164,7 @@ SUPPORTED ASSERTION LIBRARIES
 ---------------------------------------
 * [Node assert API](https://nodejs.org/api/assert.html)
 * [Jxck/assert](https://github.com/Jxck/assert)
+* [assert-match](https://github.com/rmdm/assert-match) (with [power-assert-match](https://github.com/rmdm/power-assert-match))
 
 
 ASSERTION LIBRARIES KNOWN TO WORK

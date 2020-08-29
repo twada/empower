@@ -86,7 +86,6 @@ function empower (assert, formatter, options) {
 }
 
 function buildPowerAssertText (formatter, message, context) {
-    // console.log(message);
     var powerAssertText = formatter(context);
     return message ? message + ' ' + powerAssertText : powerAssertText;
 };
